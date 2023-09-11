@@ -7,3 +7,7 @@ First Merge:
 Second Merge:
 <br>
 ![image](https://github.com/TyYan03/ECE444-F2023-Assignment1/assets/117669511/f4d904d0-efdc-48ae-a1b8-ad947febf25a)
+<br>
+Commits for utils and utils_test:
+<br>
+![image](https://github.com/TyYan03/ECE444-F2023-Assignment1/assets/117669511/d40be719-dbc9-446f-b3e1-0b3e2d9b18cf)
