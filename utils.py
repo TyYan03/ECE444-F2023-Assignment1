@@ -21,7 +21,7 @@ class utils:
 
       n = store
       oct = 0
-      while n != 0
+      while n != 0:
         oct *= 10
         oct += n % 8
         n /= 8

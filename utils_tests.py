@@ -20,15 +20,15 @@ def test_reversed():
 
 def test_formatted():
   flag = true
-  if utils.reversed(8) != 1000, 10:
+  if utils.formatter(8) != (1000, 10):
     flag = false
-  if utils.reversed(1245) != 10011011101, 2335:
+  if utils.formatter(1245) != (10011011101, 2335):
     flag = false
-  if utils.reversed(2) != 10, 2:
+  if utils.formatter(2) != (10, 2):
     flag = false
-  if utils.reversed(999) != 1111100111, 1747:
+  if utils.formatter(999) != (1111100111, 1747):
     flag = false
-  if utils.reversed(012) != 1100, 14:
+  if utils.formatter(012) != (1100, 14):
     flag = false
 
   if flag:
