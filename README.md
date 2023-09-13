@@ -6,7 +6,7 @@ First Merge:
 <br>
 Second Merge:
 <br>
-![image](https://github.com/TyYan03/ECE444-F2023-Assignment1/assets/117669511/f4d904d0-efdc-48ae-a1b8-ad947febf25a)
+![image](https://github.com/TyYan03/ECE444-F2023-Assignment1/assets/117669511/1da785ef-7c81-4665-bf7d-8f98c1ec1873)
 <br>
 Commits for utils and utils_test:
 <br>
